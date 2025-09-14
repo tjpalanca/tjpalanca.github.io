@@ -1,0 +1,6 @@
+# Caches
+/.quarto/
+**/*.quarto_ipynb
+
+# Rendered 
+/_site/

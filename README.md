@@ -1,5 +1,3 @@
-# TJ Palanca
+# TJ's Personal Blog 
 
-Welcome to my docs homepage. I use this to host artifacts from my various projects. 
-
-🕸 [Website](https://tjpalanca.com) | 💼 [LinkedIn](https://linkedin.com/in/tjpalanca) | [✉️ E-mail](mailto:contact@tjpalanca.com)
+This is my personal blog. It's built using source posts that are rendered in NotePlan and rendered using Quarto.
